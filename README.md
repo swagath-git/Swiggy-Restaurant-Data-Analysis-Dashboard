@@ -31,8 +31,6 @@ The dataset contains restaurant-level details including:
 - **Most Expensive Areas by Avg Price**
 - Dynamic filters for **City**, **Area**, and **Food Type**
 
-> These visuals and KPIs are based on the dashboards extracted from the uploaded project report. :contentReference[oaicite:0]{index=0}
-
 ##  Key Insights
 - Swiggy has the **highest restaurant density in specific urban areas** like Rohini, Chembur, Kothrud and Andheri. :contentReference[oaicite:1]{index=1}
 - Indian and Chinese cuisines make up the **largest share of served food types**. :contentReference[oaicite:2]{index=2}
