@@ -45,4 +45,3 @@ The dataset contains restaurant-level details including:
 - Reduce delivery time variance in slower regions to improve customer satisfaction.
 - Leverage cuisine popularity insights to **offer targeted promotions**.
 
-## 📁 Repository Structure (Suggested)
